@@ -1,0 +1,6 @@
+{
+  "name": "Mentor Estratégico",
+  "description": "Um mentor pessoal de alta performance com inteligência filosófica e memória evolutiva para tomada de decisões e evolução comportamental.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
